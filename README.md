@@ -6,7 +6,7 @@ MaterialUI seemed like a good choice for this prototype.
 
 You'll find the boilerplate React scripts below.
 
-Check out the project online at.... http://igleciasjoseph.github.io/COVIDTrackerReact
+Check out the project online at.... https://covid19reacttracker.herokuapp.com/
 
 # Installation
 
