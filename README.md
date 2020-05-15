@@ -1,10 +1,12 @@
-# `COVID-19 Tracker `
+# `COVID-19 Tracker`
 
-In light of recent events, building a Covid-19 data visualization tool seemed like a useful way to familiarize myself with Chart.js. 
+In light of recent events, building a Covid-19 data visualization tool seemed like a useful way to familiarize myself with Chart.js.
 
 MaterialUI seemed like a good choice for this prototype.
 
 You'll find the boilerplate React scripts below.
+
+Check out the project online at.... http://igleciasjoseph.github.io/COVIDTrackerReact
 
 # Installation
 

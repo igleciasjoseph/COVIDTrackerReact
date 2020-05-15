@@ -42,5 +42,16 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
+  },
+  "description": "In light of recent events, building a Covid-19 data visualization tool seemed like a useful way to familiarize myself with Chart.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igleciasjoseph/COVIDTrackerReact.git"
+  },
+  "author": "Joseph Iglecias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igleciasjoseph/COVIDTrackerReact/issues"
   }
 }
