@@ -9,6 +9,7 @@ export const fetchData = async (country) => {
   if (country) {
     changeableUrl = `${url}/countries/${country}`;
   }
+
   try {
     const {
       data: { confirmed, recovered, deaths, lastUpdate },
@@ -27,7 +28,8 @@ export const fetchData = async (country) => {
   }
 };
 
-export const fetchDailyData = async () => {
+// Fetches daily data for Covid
+export const fetchCovidDailyData = async () => {
   try {
     const { data } = await axios.get(`${url}/daily`);
 
@@ -43,6 +45,7 @@ export const fetchDailyData = async () => {
   }
 };
 
+// Fetches the countries in order to be able to select them
 export const fetchCountries = async () => {
   try {
     const {
