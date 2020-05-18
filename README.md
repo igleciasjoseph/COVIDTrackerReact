@@ -6,8 +6,6 @@ MaterialUI seemed like a good choice for this prototype.
 
 You'll find the boilerplate React scripts below.
 
-Check out the project online at.... https://covid19reacttracker.herokuapp.com/
-
 # Installation
 
 In the root project directory run:
